@@ -1,0 +1,23 @@
+.counter{
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+.counter > span {
+    margin: 0 8 px 0;
+}
+.red{
+    background-color:red;
+    margin: 10px;
+}
+.green{
+background-color: green;
+margin: 10px;
+}
+.blue{
+background-color: blue;
+margin: 10px;
+}
+
+button{
+margin: 10px;
+}

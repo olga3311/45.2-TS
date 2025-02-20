@@ -1,0 +1,27 @@
+.my-input {
+   
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .my-input label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #150404;
+  }
+  
+  .my-input input {
+    background-color: antiquewhite;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .my-input input:focus {
+    border: 7px solid;
+    border-color: #98180f;
+    border-radius: 30%;
+    outline: none;
+  }
